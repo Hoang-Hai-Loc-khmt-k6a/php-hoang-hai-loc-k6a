@@ -1,6 +1,3 @@
-[submodule "BMProject"]
-	path = BMProject
-	url = https://github.com/Hoang-Hai-Loc-khmt-k6a/php-hoang-hai-loc-k6a
-[submodule "myproject"]
-	path = myproject
+[submodule "larevel-shopphone"]
+	path = larevel-shopphone
 	url = https://github.com/Hoang-Hai-Loc-khmt-k6a/php-hoang-hai-loc-k6a
