@@ -1,0 +1,6 @@
+[submodule "BMProject"]
+	path = BMProject
+	url = https://github.com/Hoang-Hai-Loc-khmt-k6a/php-hoang-hai-loc-k6a
+[submodule "myproject"]
+	path = myproject
+	url = https://github.com/Hoang-Hai-Loc-khmt-k6a/php-hoang-hai-loc-k6a
